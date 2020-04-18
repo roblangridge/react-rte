@@ -34,6 +34,7 @@
     "react-dom": "0.14.x || 15.x.x || 16.x.x"
   },
   "devDependencies": {
+    "babel-runtime": "^6.23.0",
     "babel-cli": "^6.18.0",
     "babel-core": "^6.18.2",
     "babel-eslint": "^7.1.0",
